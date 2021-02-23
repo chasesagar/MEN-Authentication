@@ -1,7 +1,7 @@
 node_modules
 debug
 .git
-
+config.original.js
 # dependencies
 /node_modules
 /.pnp
